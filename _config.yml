@@ -89,7 +89,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /works/:slug
+permalink: /works/:slug.html
 timezone: America/New_York
 future: false
 
