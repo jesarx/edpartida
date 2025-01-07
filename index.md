@@ -6,7 +6,7 @@ title: Hola
 
 ## I'm Eduardo Partida
 
-I enjoy reading, writing, and occasionally creating music.
+I enjoy reading, writing, coding and creating music.
 
 Feel free to explore some of my work on this website.
 
@@ -18,7 +18,7 @@ Everything I create is released into the public domain. You're welcome to read, 
 
 ## Soy Eduardo Partida
 
-Me gusta leer, escribir y, de vez en cuando, crear música.
+Me gusta leer, escribir, programar y crear música.
 
 Puedes explorar mi trabajo en este sitio web.
 

@@ -7,6 +7,8 @@ date:   2018-02-01 21:21:21 +0530
 tags: [music]
 ---
 
+In *De cada poro resuelto de mi piel*, four loudspeakers are positioned in front of the performer, who holds a microphone in each hand. A constant, distorted feedback creates a dynamic sonic ecosystem where every movement of the performer generates sound. The piece transforms the entire body into an instrument—a terrain where sound emerges and evolves. It is an active embodiment of sound, where the performer’s voice, gestures, movements and presence become integral to the unfolding sonic landscape.
+
 ## \> [Score](/assets/scores/de_cada_poro.pdf)
 
 ## \> Audio
@@ -16,6 +18,9 @@ Performed by myself
 ## \> Video
 ScoreFollower video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OTdRF8mJuBo?si=5y0axTaoIfhYawTB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Performed by Jacobo Hernández Enríquez (fragment)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmw9tp65yD4?si=yI_l8or8Y1aZumBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## \> List of known performances
 * 19/02/2019 Forum Stadtpark, Graz, Austria. Festival IMPULS. Performed by Jacobo Hernández Enríquez
